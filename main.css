@@ -1,0 +1,44 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 150px 245px;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 18px;
+    margin: 30px 0;
+}
+
+a {
+    font-size: 18px;
+    background: #FF6861;
+    border-radius: 100px;
+    color: #FFFFFF;
+    padding: 22px 70px;
+    text-decoration: none;
+    font-weight: 700;
+    display: block;
+    width: 220px;
+}
+
+div {
+    width: 465px;
+    margin-right: 180px;
+}
+
+
+
+
+
